@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1385928441 source:c:\users\saturnin\école\cas\computering\c++\durée\main.cpp
+	<iostream>
+	"Duree.h"
+
+1385986701 c:\users\saturnin\école\cas\computering\c++\durée\duree.h
+
+1385986701 source:c:\users\saturnin\école\cas\computering\c++\durée\duree.cpp
+	<iostream>
+	"Duree.h"
+

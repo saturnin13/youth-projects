@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1384699398 source:c:\users\saturnin\école\cas\computering\proggramation\plusmoins\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

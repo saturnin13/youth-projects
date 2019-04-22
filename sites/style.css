@@ -1,0 +1,26 @@
+body
+{
+	background-image: url("http://2.bp.blogspot.com/-fpp18dEuIAY/UPR0V2hybBI/AAAAAAAAG0o/-8Y7C8Ze7ls/s1600/neige_arbre+hiver.jpg");
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	border: 10px red ridge;
+	border-radius: 50px;
+	box-shadow: 6px 6px 6px red inset;
+	font-family: arial;
+	color: black;
+	font-size: 300%;
+}
+td, th
+{
+	border: 1px solid black;
+}
+table
+{
+	border-collapse: collapse;
+}
+td[colspan]
+{
+	text-align: center;
+}
+
+

@@ -1,0 +1,16 @@
+h1
+{
+	color: red;
+	font-style: bold;
+	border: solid;
+	width: 10%;
+	height: 30px;
+	margin: auto;
+	padding: 25px;
+}
+p
+{
+	width: 200px;
+	height: 200px;
+	overflow: auto;
+}

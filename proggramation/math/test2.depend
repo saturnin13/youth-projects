@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1376656970 source:c:\users\saturnin\école\cas\computering\proggramation\test2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1376653530 source:c:\users\saturnin\école\cas\computering\proggramation\math\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

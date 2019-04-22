@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1402063211 source:c:\users\saturnin\école\cas\computering\c++\fraction\fraction.cpp
+	<iostream>
+	<string>
+	"Fraction.h"
+
+1402063232 c:\users\saturnin\école\cas\computering\c++\fraction\fraction.h
+	<string>
+
+1402063819 source:c:\users\saturnin\école\cas\computering\c++\fraction\main.cpp
+	<iostream>
+	"Fraction.h"
+

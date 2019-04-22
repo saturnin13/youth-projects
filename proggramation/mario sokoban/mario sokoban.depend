@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1385307595 source:c:\users\saturnin\école\cas\computering\proggramation\mario sokoban\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	"constantes.h"
+	"jeu.h"
+	"editeur.h"
+
+1378400181 c:\users\saturnin\école\cas\computering\proggramation\mario sokoban\constantes.h
+
+1378653077 source:c:\users\saturnin\école\cas\computering\proggramation\mario sokoban\editeur.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	"constantes.h"
+	"editeur.h"
+	"fichiers.h"
+
+1385831632 source:c:\users\saturnin\école\cas\computering\proggramation\mario sokoban\fichiers.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	"constantes.h"
+	"jeu.h"
+	"fichiers.h"
+
+1385307514 source:c:\users\saturnin\école\cas\computering\proggramation\mario sokoban\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	"constantes.h"
+	"jeu.h"
+	"fichiers.h"
+
+1378574532 c:\users\saturnin\école\cas\computering\proggramation\mario sokoban\jeu.h
+
+1378633084 c:\users\saturnin\école\cas\computering\proggramation\mario sokoban\editeur.h
+
+1379247476 c:\users\saturnin\école\cas\computering\proggramation\mario sokoban\fichiers.h
+

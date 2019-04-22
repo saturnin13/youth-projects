@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1380749761 source:c:\users\saturnin\école\cas\computering\proggramation\compteur\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+

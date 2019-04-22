@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1377887290 source:c:\users\saturnin\école\cas\computering\proggramation\tp_pendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

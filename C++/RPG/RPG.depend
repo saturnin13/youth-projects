@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1385909708 source:c:\users\saturnin\école\cas\computering\c++\rpg\main.cpp
+	<iostream>
+	"Personnage.h"
+
+1385831234 source:c:\users\saturnin\école\cas\computering\c++\rpg\perssonnage.cpp
+	<iostream>
+	<string>
+
+1385839521 c:\users\saturnin\école\cas\computering\c++\rpg\personnage.h
+	<string>
+
+1385839755 source:c:\users\saturnin\école\cas\computering\c++\rpg\personnage.cpp
+	<iostream>
+	<string>
+	"Personnage.h"
+

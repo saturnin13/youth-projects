@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1385311317 source:c:\users\saturnin\école\cas\computering\proggramation\musique\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL.h>
+	<SDL_image.h>
+	<fmod.h>
+	<SDL_ttf.h>
+

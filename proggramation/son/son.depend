@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1430950493 source:c:\users\saturnin\école\cas\computering\proggramation\son\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL.h>
+	<SDL_image.h>
+	<fmod.h>
+	<SDL_ttf.h>
+
+1430946976 source:c:\users\saturnin\école\cas\computing\proggramation\son\main.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL.h>
+	<SDL_image.h>
+	<fmod.h>
+	<SDL_ttf.h>
+
