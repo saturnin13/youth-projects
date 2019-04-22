@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\saturnin\Programs\Dice game\Application Version\jeux\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7271124594fd3fecd9a0f9e89f9afe6ccce46919">
+        <dex dex="C:\Users\saturnin\Programs\Dice game\Application Version\jeux\android\build\intermediates\pre-dexed\debug\core-1.0_7518648fb35fc133cffcec6cc84c6a35cb866269.jar" />
+    </item>
+    <item
+        jar="C:\Users\saturnin\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.2\b78eaa90aaaf7830e6dffff587ea6e859c2787b2\gdx-box2d-1.9.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b78eaa90aaaf7830e6dffff587ea6e859c2787b2">
+        <dex dex="C:\Users\saturnin\Programs\Dice game\Application Version\jeux\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.9.2_efdfa2d14cef50a0b01f76b82c11128e2c01bd62.jar" />
+    </item>
+    <item
+        jar="C:\Users\saturnin\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.2\342b830bc718dc1965c8f13fc58dc500e8bd262f\gdx-backend-android-1.9.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="342b830bc718dc1965c8f13fc58dc500e8bd262f">
+        <dex dex="C:\Users\saturnin\Programs\Dice game\Application Version\jeux\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.9.2_fac46ce51c40c5a1c38116c062d80f3d62da2d2b.jar" />
+    </item>
+    <item
+        jar="C:\Users\saturnin\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.2\e641cb91bec06bc64d9ddf7a7d7062caceec73cd\gdx-1.9.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e641cb91bec06bc64d9ddf7a7d7062caceec73cd">
+        <dex dex="C:\Users\saturnin\Programs\Dice game\Application Version\jeux\android\build\intermediates\pre-dexed\debug\gdx-1.9.2_7d3a1cd80da5e5de5605900c162c48fa2f99f7dc.jar" />
+    </item>
+
+</items>
