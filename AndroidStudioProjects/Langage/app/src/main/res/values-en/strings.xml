@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello %1$s, you are %2$d.</string>
+    <string name="app_name">version anglais</string>
+    <string name="action_settings">ta mere</string>
+</resources>

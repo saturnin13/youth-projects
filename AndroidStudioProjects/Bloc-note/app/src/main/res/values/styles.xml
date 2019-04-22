@@ -1,0 +1,25 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="blueBackground">
+        <item name="android:background">@color/background</item>
+    </style>
+
+    <style name="blackText">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="optionButton">
+        <item name="android:background">@drawable/option_button</item>
+    </style>
+
+    <style name="hideButton">
+        <item name="android:background">@drawable/hide_button</item>
+    </style>
+
+    <style name="translucide">
+        <item name="android:background">@color/translucide</item>
+    </style>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Bonjour %1$s, vous avez %2$d ans.</string>
+    <string name="app_name">version francaise</string>
+    <string name="action_settings">ta mere</string>
+</resources>
