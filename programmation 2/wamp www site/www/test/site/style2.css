@@ -1,0 +1,235 @@
+﻿/*définition des police*/
+@font-face
+{
+    font-family: 'BallparkWeiner';
+    src: url('polices/ballpark.eot');
+    src: url('polices/ballpark.eot?#iefix') format('embedded-opentype'),
+         url('polices/ballpark.woff') format('woff'),
+         url('polices/ballpark.ttf') format('truetype'),
+         url('polices/ballpark.svg#BallparkWeiner') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+ 
+@font-face
+{
+    font-family: 'Dayrom';
+    src: url('polices/dayrom.eot');
+    src: url('polices/dayrom.eot?#iefix') format('embedded-opentype'),
+         url('polices/dayrom.woff') format('woff'),
+         url('polices/dayrom.ttf') format('truetype'),
+         url('polices/dayrom.svg#Dayrom') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*éléments principaux*/
+body
+{
+	background:rgb(198,85,57);
+	font-family:arial, georgia, serif;
+	color:rgb(0,0,0);
+}
+#tout
+{
+	width: 99.5%;
+	margin: auto;
+	margin-top: 10px;
+}
+#intro h1, #intro h2, header p
+{
+	font-family: ballparkweiner, arial, serif;
+	color: rgb(247,193,9);
+	font-weight: normal;
+	font-size: 200%;
+}
+#intro h1
+{
+	font-size: 400%;
+}
+h1
+{
+	color: rgb(255,0,0);
+	font-size: 200%;
+	font-weight: bold;
+}
+/*header*/
+
+header
+{
+	padding: 7px;
+	background: url(image/separateur.png) repeat-x bottom;
+}
+#intro
+{
+	background: black;
+	display: inline-block;
+	width: 100%;
+	border-radius: 20px;
+	box-shadow: 2px 2px 2px black;
+}
+header p
+{
+	display: inline-block;
+	width: 45%;
+	vertical-align: 100%;
+}
+header img
+{
+	float: left;
+}
+header h2
+{
+	clear: both;
+	margin-left: 10px;
+}
+#logo
+{
+	display:inline-block;
+	width: 40%;
+}
+/*navigation*/
+nav
+{
+	background: url(image/separateur.png) repeat-x bottom;
+	padding: 0.25%;
+}
+nav ol
+{
+    list-style-type: none;
+}
+nav li 
+{
+	display: inline-block;
+	margin-right: 5%;
+}
+nav a
+{
+		color: rgb(255,147,0);
+		font-family: dayrom, arial, serif;
+		font-weight: bold;
+		font-size: 200%;
+		text-decoration: none;
+}
+nav a:hover
+{
+	color: rgb(23,18,237);
+	text-decoration: underline;
+}
+nav a:active
+{
+	color: yellow;
+}
+/*bande*/
+#code
+{
+	background: url(image/code.jpg);
+	background-repeat: repeat-x;
+	height: 266px;
+	width: 100%;
+	border-radius: 20px;
+	box-shadow: 5px 5px 5px rgb(92,5,3);
+	margin-bottom: 1%;
+}
+/*section*/
+section
+{
+	position: relative;
+}
+/*article*/
+article
+{
+	background: rgb(221,208,157);
+	border-radius: 10px;
+	padding-left: 1%;
+}
+article p
+{
+	font-family: arial, serif;
+	color: rgb(0,0,0);
+	font-size: 200%;
+}
+article h1
+{
+	font-size:300%;
+}
+/*aside*/
+aside
+{
+	width: 38%;
+	margin-top: 1%;
+	background: rgb(90,114,184);
+	padding-left: 1%;
+	float: right;
+	border-radius: 10px;
+	padding-bottom: 2%;
+}
+aside h1
+{
+	font-family: BallparkWeiner;
+	font-size: 400%;
+	font-weight: normal;
+	margin-bottom: 1%;
+}
+aside p
+{
+	font-family: arial, serif;
+	color: rgb(0,0,0);
+	font-size: 200%;
+}
+#zozor
+{
+	text-align: center;
+	padding-top: 0%;
+	padding-bottom: 1%;
+}
+/*footer*/
+footer
+{
+	font-family: arial, serif;
+	color: rgb(247,193,9);
+	font-size: 150%;
+	background: rgb(39,15,0);
+	border-radius: 0px 10px 10px 10px;
+}
+#email
+{
+	display: inline-block;
+	vertical-align: top;
+	width: 39%;
+	margin-left: 10%;
+}
+#amis
+{
+	display: inline-block;
+	width: 45%;
+	margin-left: 5%;
+}
+footer ul
+{
+	display: inline-block;
+	margin: 0px;
+}
+#titre
+{
+	display: inline-block;
+	vertical-align: top;
+}
+footer a:hover
+{
+	color: rgb(255,147,0);
+}
+footer li:hover
+{
+	color: rgb(68,33,141);
+}
+footer li a
+{
+	color: rgb(247,193,9);
+	text-decoration: none;
+}
+
+
+
+
+

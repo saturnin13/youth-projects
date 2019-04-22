@@ -1,0 +1,3 @@
+-mettre en format png ET jpg les photos 
+-mettre les polices inscription css
+-finir de bien faire code inscription vue/css
